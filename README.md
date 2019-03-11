@@ -9,7 +9,7 @@
 
 You should be able to change the proxy settings of your laptop, if not please download Firefox Portable Edition (https://portableapps.com/apps/internet/firefox_portable)
 
-## Run on local machine
+## Running WebGoat
 
 ### Running jar file
 

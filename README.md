@@ -13,7 +13,7 @@ You should be able to change the proxy settings of your laptop, if not please do
 
 ### Running jar file
 
-**Prerequisite: Java 8 should be present on laptop**
+**Prerequisite: Java 11 should be present on laptop**
 
 Start WebGoat:
 

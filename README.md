@@ -5,7 +5,7 @@
 
 - Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
 - Download [WebGoat v8.0.0.M25](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M25)
-- Download [Java 11](https://jdk.java.net/11/) only download, see below.
+- Download [Java 11](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) only download, see below.
 - Docker (optional)
 
 You should be able to change the proxy settings of your laptop, if not please download Firefox Portable Edition (https://portableapps.com/apps/internet/firefox_portable)

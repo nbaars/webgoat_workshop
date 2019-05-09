@@ -3,7 +3,7 @@
 ## Prerequisite
 
 - Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
-- Download [WebGoat v8.0.0.M24](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M25)
+- Download [WebGoat v8.0.0.M25](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M25)
 - Download [Java 11](https://jdk.java.net/11/) only download, see below.
 - Docker (optional)
 

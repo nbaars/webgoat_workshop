@@ -3,8 +3,8 @@
 ## https://github.com/nbaars/webgoat_workshop/
 ## Prerequisite
 
-- Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
-- Download [WebGoat v8.0.0.M25](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M25)
+- Download [ZAP 2.8.0](https://github.com/zaproxy/zaproxy/wiki/Downloads) and install it on your machine.
+- Download [WebGoat v8.0.0.M25](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M26)
 - Download [Java 11](https://jdk.java.net/archive/) only download, see below.
 - Docker (optional)
 
@@ -19,7 +19,7 @@ You should be able to change the proxy settings of your laptop, if not please do
 Start WebGoat:
 
 ```
-java -jar webgoat-8.0.0-M25.jar
+java -jar webgoat-8.0.0-M26.jar
 ```
 
 ### Using Docker image from Docker Hub

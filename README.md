@@ -1,6 +1,7 @@
 # WebGoat workshop
 
-## https://github.com/nbaars/webgoat_workshop/
+For more information about WebGoat, see: https://webgoat.github.io/WebGoat/ and https://owasp.org/www-project-webgoat/
+
 ## Prerequisite
 
 For WebGoat you only need to download binaries, you do not need to install anything on your machine!

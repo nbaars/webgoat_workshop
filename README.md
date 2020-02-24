@@ -3,6 +3,8 @@
 ## https://github.com/nbaars/webgoat_workshop/
 ## Prerequisite
 
+For WebGoat you only need to download binaries, you do not need to install anything on your machine!
+
 - Download [WebGoat v8.0.0.M26](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M26)
 - Download [WebWolf v8.0.0.M26](https://github.com/WebGoat/WebGoat/releases/tag/v8.0.0.M26)
 - Download [Java 11](https://jdk.java.net/archive/) only download, see below.
@@ -15,9 +17,7 @@ You should be able to change the proxy settings of your laptop, if not please do
 
 ### Running jar file
 
-**Prerequisite: Java 11 should be present on laptop**
-
-Start WebGoat:
+Unzip the downloaded Java 11 zip file and start WebGoat:
 
 ```
 java -jar webgoat-8.0.0-M26.jar

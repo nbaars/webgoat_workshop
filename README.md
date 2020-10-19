@@ -24,7 +24,10 @@ Depending on your choice above (Docker or no Docker) either choose 'Run with Doc
 
 ```
 docker pull webgoat/goatandwolf:v8.1.0
+docker run -p 8080:8080 -p 9090:9090 -e TZ=Europe/Amsterdam webgoat/goatandwolf:v8.1.0
 ```
+
+Open your favourite browser and browse to: http://localhost:8080/WebGoat
 
 ### Run with jar file
 
@@ -36,6 +39,9 @@ java -jar webgoat-8.1.0.jar
 ```
 
 On a Mac this would be: `jdk-14.0.1.jdk/Contents/Home/bin/java -jar webgoat-server-8.1.0.jar` 
+
+
+Open your favourite browser and browse to: http://localhost:8080/WebGoat
 
 
 

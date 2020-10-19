@@ -43,8 +43,11 @@ webwolf-8.1.0.jar
 Now execute the following command:
 
 ```
-[Windows and Linux] jdk-14.0.1/bin/java -jar webgoat-8.1.0.jar
-[Mac] jdk-14.0.1.jdk/Contents/Home/bin/java -jar webgoat-server-8.1.0.jar
+#[Windows and Linux] 
+jdk-14.0.1/bin/java -jar webgoat-8.1.0.jar
+
+#[Mac] 
+jdk-14.0.1.jdk/Contents/Home/bin/java -jar webgoat-server-8.1.0.jar
 ```
 
 Open your favourite browser and browse to: http://localhost:8080/WebGoat

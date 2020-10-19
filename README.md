@@ -33,15 +33,22 @@ Open your favourite browser and browse to: http://localhost:8080/WebGoat
 
 ### Run with jar file
 
-Copy all the downloaded files to one folder, for example `/Users/me/workshop` 
-Unzip the downloaded Java 14 zip file and open a terminal and go to the folder you created above:
+Copy all the downloaded files (WebGoat/WebWolf and Java 14) to one folder, for example `workshop` 
+Unzip the downloaded Java 14 zip file and open a terminal and go to the folder you created above, this folder should look like (depending on your platform)
 
 ```
-java -jar webgoat-8.1.0.jar
+jdk-14.0.1.jdk
+jdk-14.01
+webgoat-server-8.1.0.jar
+webwolf-8.1.0.jar
 ```
 
-On a Mac this would be: `jdk-14.0.1.jdk/Contents/Home/bin/java -jar webgoat-server-8.1.0.jar` 
+Now execute the following command:
 
+```
+[Windows and Linux] jdk-14.0.1/bin/java -jar webgoat-8.1.0.jar
+[Mac] jdk-14.0.1.jdk/Contents/Home/bin/java -jar webgoat-server-8.1.0.jar
+```
 
 Open your favourite browser and browse to: http://localhost:8080/WebGoat
 

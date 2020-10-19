@@ -15,4 +15,7 @@
 
 - http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjectionMitigations.lesson/11
 
-# 
+# XXE
+
+- http://localhost:8080/WebGoat/start.mvc#lesson/XXE.lesson/3
+- Familiar with XXE, try: http://localhost:8080/WebGoat/start.mvc#lesson/XXE.lesson/10

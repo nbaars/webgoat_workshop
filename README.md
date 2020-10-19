@@ -13,8 +13,6 @@ If you are **NOT** able to use Docker also download, you don't need to install a
 - Download [WebGoat v8.1.0](https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0) 
 - Download [WebWolf v8.1.0](https://github.com/WebGoat/WebGoat/releases/tag/v8.1.0)
 - Download [Java 14](https://jdk.java.net/archive/) only download, see below.
-- Download [ZAP](https://www.zaproxy.org/download/) and install it on your machine. If you have another proxy you can use that one as well of course.
-- Docker (optional)
 
 You should be able to change the proxy settings of your laptop, if not please download Firefox Portable Edition (https://portableapps.com/apps/internet/firefox_portable)
 

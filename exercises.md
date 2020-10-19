@@ -1,8 +1,8 @@
 # HTTP Basics
 
-- <a href="http://localhost:8080/WebGoat/start.mvc#lesson/HttpProxies.lesson/5" target="_blank">http://localhost:8080/WebGoat/start.mvc#lesson/HttpProxies.lesson/5</a>
-- <a href="http://localhost:8080/WebGoat/start.mvc#lesson/HtmlTampering.lesson/1" target="_blank">http://localhost:8080/WebGoat/start.mvc#lesson/HtmlTampering.lesson/1</a>
-- <a href="http://localhost:8080/WebGoat/start.mvc#lesson/HtmlTampering.lesson/1" target="_blank">http://localhost:8080/WebGoat/start.mvc#lesson/ClientSideFiltering.lesson/2</a>
+- http://localhost:8080/WebGoat/start.mvc#lesson/HttpProxies.lesson/5
+- http://localhost:8080/WebGoat/start.mvc#lesson/HtmlTampering.lesson/1
+- http://localhost:8080/WebGoat/start.mvc#lesson/ClientSideFiltering.lesson/2
 
 # SQL injection - 1
 

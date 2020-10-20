@@ -10,6 +10,7 @@
 - http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjection.lesson/9
 - http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjection.lesson/11
 - Familiar with SQL injections, try: http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjectionAdvanced.lesson/4
+  (hint column in database for password is: `password`)
 
 # SQL injection - 2
 
